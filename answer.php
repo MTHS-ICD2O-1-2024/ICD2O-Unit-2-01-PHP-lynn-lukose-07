@@ -6,7 +6,7 @@
   <meta charset="utf-8" />
   <meta name="description" content="The XXX program, PHP" />
   <meta name="keywords" content="mths, icd2o" />
-  <meta name="author" content="Lynn Lukose" />
+  <meta name="author" content="Mr. Coxall" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link
     rel="stylesheet"
@@ -30,7 +30,7 @@
     sizes="16x16"
     href="./favicon-16x16.png" />
   <link rel="manifest" href="./site.webmanifest" />
-  <title>The "Hello, World!" program, PHP</title>
+  <title>The XXX program, PHP</title>
 </head>
 
 
@@ -39,40 +39,18 @@
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     <header class="mdl-layout__header">
       <div class="mdl-layout__header-row">
-        <span class="mdl-layout-title">The "Hello, World!" program, PHP</span>
+        <span class="mdl-layout-title">The XXX program, PHP</span>
       </div>
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/funny_image.jpg" alt="laptop image" />
+        <img src="./images/notebook-animation.svg" alt="laptop image" />
       </div>
-      <div class="page-content">Instructions here ...</div>
+      <div class="page-content">The answer is ...</div>
       <br />
-      <!-- Simple Textfield for integers-->
-      <form action="answer.php" method="GET">
-        <div class="mdl-textfield mdl-js-textfield">
-          <!-- input pattern attribute -->
-          <input
-            class="mdl-textfield__input"
-            type="text"
-            pattern="-?[0-9]*(\.[0-9]+)?"
-            id="length" />
-          <!-- mdl-textfield__label -->
-          <label class="mdl-textfield__label" for="demo-input">Length of ... (mm)</label>
-          <!-- class "mdl-textfield__error" -->
-          <span class="mdl-textfield__error">Input is not a number</span>
-        </div>
-        <br />
-        <!-- Accent-colored raised button with ripple -->
-        <button
-          class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
-          type="submit">
-          Calculate
-        </button>
-      </form>
-      <br />
+      <div class="page-content-answer">
+        <a href="./index.php">Return ...</a>
+      </div>
     </main>
   </div>
 </body>
-
-</html>
