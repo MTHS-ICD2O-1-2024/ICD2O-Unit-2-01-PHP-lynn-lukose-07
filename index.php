@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta name="description" content="The XXX program, PHP" />
+  <meta name="description" content="The 'Hello, World!' program, PHP" />
   <meta name="keywords" content="mths, icd2o" />
   <meta name="author" content="Lynn Lukose" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
