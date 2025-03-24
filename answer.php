@@ -46,7 +46,7 @@
       <div class="right-image">
         <img src="./images/notebook-animation.svg" alt="laptop image" />
       </div>
-      <div class="page-content">The answer is ...</div>
+      <div class="page-content">"Hello, World!"</div>
       <br />
       <div class="page-content-answer">
         <a href="./index.php">Return ...</a>
