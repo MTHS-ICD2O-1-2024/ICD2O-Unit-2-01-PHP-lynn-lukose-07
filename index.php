@@ -44,7 +44,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/funny_image.jpg" alt="laptop image" />
+        <img src="./" alt="laptop image" />
       </div>
       <div class="page-content">Instructions here ...</div>
       <br />
