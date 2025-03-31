@@ -57,7 +57,7 @@
               pattern="-?[0-9]*(\.[0-9]+)?"
               id="length" />
             <!-- mdl-textfield__label -->
-            <label class="mdl-textfield__label" for="demo-input">Length of ... (mm)</label>
+            <label class="mdl-textfield__label" for="length">Length of ... (mm)</label>
             <!-- class "mdl-textfield__error" -->
             <span class="mdl-textfield__error">Input is not a number</span>
           </div>
