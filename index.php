@@ -45,7 +45,7 @@
         <div class="right-image">
           <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="laptop image" />
         </div>
-        <div class="page-content">Instructions here ...</div>
+        <div class="page-content">Click button ...</div>
         <br />
         <form action="answer.php" method="GET">
           <br />
