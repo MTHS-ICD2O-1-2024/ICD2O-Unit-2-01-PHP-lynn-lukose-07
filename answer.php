@@ -46,7 +46,11 @@
       <div class="right-image">
         <img src="./images/notebook-animation.svg" alt="laptop image" />
       </div>
-      <div class="page-content">"Hello, World!"</div>
+      <div class="page-content">
+        <?php
+        echo "Hello World";
+        ?>
+      </div>
       <br />
       <div class="page-content-answer">
         <a href="./index.php">Return ...</a>
@@ -54,3 +58,5 @@
     </main>
   </div>
 </body>
+
+</html>
