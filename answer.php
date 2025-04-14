@@ -48,7 +48,7 @@
       </div>
       <div class="page-content">
         <?php
-        echo "Hello World";
+        echo "Hello, World!";
         ?>
       </div>
       <br />
